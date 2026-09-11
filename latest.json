@@ -1,8 +1,9 @@
 {
-  "version": "0.2.1",
-  "notes": "Hopefully fixing the resolution issues + More database updates",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.2.1/Orrery-v0.2.1-win64.zip",
-  "sha256": "6f6fdf943354984ab4879fe7f90a9c251e877430d6969dd1d03054b83fd065a6",
+  "version": "0.2.2",
+  "notes": "Resolution got me on the brink",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_.0.2.2/Orrery-v0.2.2-win64.zip",
+  "sha256": "dce5183c6565a41ab2726813e1a1bbacbf41f404fd656e39f00ca23fe1923aeb",
+  
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.2.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "e543a1cf498338fdf82591f2b990246fed305559af41f737e9b9281b222df172",
   "audio_pack_version": "2",

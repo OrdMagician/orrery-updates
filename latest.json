@@ -1,8 +1,8 @@
 {
-  "version": "0.2.2",
-  "notes": "Resolution got me on the brink",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_.0.2.2/Orrery-v0.2.2-win64.zip",
-  "sha256": "dce5183c6565a41ab2726813e1a1bbacbf41f404fd656e39f00ca23fe1923aeb",
+  "version": "0.2.3",
+  "notes": "Pain",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_.0.2.3/Orrery-v0.2.3-win64.zip",
+  "sha256": "83766c6d2f4c671dfda3955b8926d728727301d933e0f96525c757b282975277",
   
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.2.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "e543a1cf498338fdf82591f2b990246fed305559af41f737e9b9281b222df172",

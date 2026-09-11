@@ -1,0 +1,13 @@
+{
+  "version": "0.1.5",
+  "notes": "Resolution Fix",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/v0.1.5/Orrery-v0.1.5-win64.zip",
+  "sha256": "70b79dd718adc0a6cdd500f62748d7273b61952d2a5039b95fd04a71f455667b",
+  "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Audiov1/Orrery-audio-pack.zip",
+  "audio_pack_sha256": "5319ab5a9aafe579d2d4bf5c90bdd31618e2d03230c2fcc58cea66f82a31bc10",
+  "audio_pack_version": "1",
+  "art_notice_version": "1",
+  "art_notice_text": "50 new cards added.",
+  "art_notice_url": "https://drive.google.com/drive/folders/..."
+
+}

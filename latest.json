@@ -1,8 +1,8 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "notes": "In which we lag the damn tinker out using GIFS",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.5.1/Orrery-v0.5.1-win64.zip",
-  "sha256": "3ab0203899753fcfea46a6d03bfc83541353994c167ca017ed4bcdee2d6df0ca",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.5.2/Orrery-v0.5.2-win64.zip",
+  "sha256": "db0c32480e081f2943d9dd63f8cb241d62662a7c52b795f1646f9683fb20e241",
   
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.5.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "sha256:6e7de0eea653fe5da4845411be968393026da154baf36d0e4fdfe5804ea928b7",

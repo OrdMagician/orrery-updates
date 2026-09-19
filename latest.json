@@ -1,8 +1,8 @@
 {
-  "version": "0.5.9",
-  "notes": "Targets Fix",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.5.9/Orrery-v0.5.9-win64.zip",
-  "sha256": "dcc5d179ee178e4c568a388cf4f3c0009d838dcb2303777d4fd8d90aec6b3598",
+  "version": "0.6.1",
+  "notes": "UI Updates and bug fixes",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.1/Orrery-v0.6.1-win64.zip",
+  "sha256": "7cb4743f74255688f4c77e432cdd5413c899c7fe42cc462a67c853f723c8cd75",
   
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_.0.5%2C4/Orrery-audio-pack.zip",
   "audio_pack_sha256": "0d02b0bef63c403db86c0fb05985868a09b086c17cf0c95e74e3e3539d2159d3",

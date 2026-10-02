@@ -4,9 +4,9 @@
   "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.5/Orrery-v0.6.5-win64.zip",
   "sha256": "67d05201dd969d8cf0cf9b0f8bdab002c730750c03dc5da1c7b75b35bd4c7b98",
   
-  "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_.0.5%2C4/Orrery-audio-pack.zip",
-  "audio_pack_sha256": "0d02b0bef63c403db86c0fb05985868a09b086c17cf0c95e74e3e3539d2159d3",
-  "audio_pack_version": "4",
+  "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.5/Orrery-audio-pack.zip",
+  "audio_pack_sha256": "e1f6261fc856ea02d11528d5c7a86164ba638e015a64bb997d4ca5bcdd6d6c64",
+  "audio_pack_version": "5",
   "art_packs": [
   {
     "version": "1",
@@ -22,6 +22,16 @@
     "version": "3",
     "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.4/Orrery-art-pack-v3.zip",
     "sha256": "9e68b13e91247b53fda12bd4dafe1fd3b46856a15ab58f2fbcef88310e63f7f0"
+  },
+  {
+    "version": "4",
+    "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.5/Orrery-art-pack-v4.zip",
+    "sha256": "7c47df47ef7d3c58d004dc99dd9af45548698e6120c015a9ccd9b89e368d7817"
+  },
+  {
+    "version": "5",
+    "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.5/Orrery-art-pack-v5.zip",
+    "sha256": "dcbcbd715e75dbeefbd212d1d922327ab29be023a2889199e5a13c70a3f7a95a"
   }
 ]
 

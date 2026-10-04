@@ -1,8 +1,8 @@
 {
-  "version": "0.6.11",
-  "notes": "Field Spell backgrounds: when both players have a Field Spell, yours shows on the right half and the opponent's on the left, with no overlap. Card database fixes: corrected attributes for many monsters (including Blue-Eyes Bright Dragon, Cyber Stein, and Mathematician), filled in missing attributes, ATK values, and levels from the card art, fixed Spell/Trap/Monster type mix-ups, filled blank effect text, fixed OCR typos and stray symbols in card text, and corrected the Argostars - Swift Capane name. Also includes the 0.6.10 crash fixes.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.11/Orrery-v0.6.11-win64.zip",
-  "sha256": "ea9efb01552f67bb1f7bd3e8824adab151c51810b6e1976b85924a34686bb5e0",
+  "version": "0.6.12",
+  "notes": "Card backs now show for your opponent in a duel even if you equip the sleeve after connecting. Face-down cards on the opponent side update when their sleeve arrives. Also includes the 0.6.11 field spell split and card database cleanup, and the 0.6.10 crash fixes.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.12/Orrery-v0.6.12-win64.zip",
+  "sha256": "89b9f7512318ed62d0b25518068771be164743bad7e6ecd30a75053773b6c72b",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.5/Orrery-audio-pack.zip",
   "audio_pack_sha256": "e1f6261fc856ea02d11528d5c7a86164ba638e015a64bb997d4ca5bcdd6d6c64",
   "audio_pack_version": "5",

@@ -1,8 +1,8 @@
 {
-  "version": "0.6.13",
-  "notes": "Deck Lab: sub-tags can be assigned to cards that already have the tag, clicking the armed tag again (or pressing Esc) stops tagging, and the card detail panel no longer resizes the window when you click a card. Also includes the 0.6.12 sleeve sync, 0.6.11 field spell split and card database cleanup, and the 0.6.10 crash fixes.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.13/Orrery-v0.6.13-win64.zip",
-  "sha256": "f3a3058ca3f11b924f8e6e69726c2224a480bf06c3c8c4139f0413d14918a719",
+  "version": "0.6.14",
+  "notes": "Adds crash capture for silent crashes: native crashes are now recorded to logs/native-crash.log. Also includes the 0.6.13 Deck Lab fixes, 0.6.12 sleeve sync, 0.6.11 field spell split and card database cleanup, and the 0.6.10 crash fixes.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.14/Orrery-v0.6.14-win64.zip",
+  "sha256": "e292761d3b489b04a964e245e2bb647dc89a0ea329271ec226a091ecae2789df",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.5/Orrery-audio-pack.zip",
   "audio_pack_sha256": "e1f6261fc856ea02d11528d5c7a86164ba638e015a64bb997d4ca5bcdd6d6c64",
   "audio_pack_version": "5",

@@ -1,8 +1,8 @@
 {
-  "version": "0.6.19",
-  "notes": "Hotfix: 0.6.18 could fail to start in the installed app because of the startup cache. Fixed. Also includes everything in 0.6.18: results screen, Deck Lab reserve drop, similar-cards ranking, startup cache, and database fixes.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.19/Orrery-v0.6.19-win64.zip",
-  "sha256": "0bc2e60c85345fa1900e56ee429b753dbbdbf5d240c0a6b31d21131564016486",
+  "version": "0.6.20",
+  "notes": "Audio: sound effects, background music and win/lose music recover when the output device changes (headphones, Bluetooth). Deck Lab: tag labeling no longer crashes the app. Probabilities: new Compare mode, with up to four decks, versions or Plan 1/Plan 2 side by side. Admin mode shows hidden archetypes in the Pack Builder and Database filter; 10 more archetypes added. Also: race and monster type fixes, database cleanups, wants list stays in sync across views, pack odds tuning, card odds in Probabilities.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.20/Orrery-v0.6.20-win64.zip",
+  "sha256": "91f86648c4431b046a4814a79c53e15d20434751e35ec15fae27758cb166b007",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.5/Orrery-audio-pack.zip",
   "audio_pack_sha256": "e1f6261fc856ea02d11528d5c7a86164ba638e015a64bb997d4ca5bcdd6d6c64",
   "audio_pack_version": "5",

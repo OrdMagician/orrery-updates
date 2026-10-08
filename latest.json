@@ -1,8 +1,8 @@
 {
-  "version": "0.6.21",
-  "notes": "Monster attributes corrected from the card art (72 names where the data disagreed, plus Earth-marked monsters that are Dark, Light, Water or Cosmic). Dragging a monster with materials onto the GY or Banish pile now sends its materials too. Deck Lab: clear tags on one card or the whole deck. Starter with another card: pick cards or a type (Spell or Trap, Spell, Trap, Monster), in a dropdown that opens from the tag list. Circled 1/2/3 added to effects with several parts that didn't have them.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.21/Orrery-v0.6.21-win64.zip",
-  "sha256": "efb031855e5e476e450e0ed6d308b88456853f2ce9416203966a11cf4f6fa0e5",
+  "version": "0.6.22",
+  "notes": "Open Lobbies now shows games hosted over a shared ZeroTier network, not just the same physical LAN. The host dialog's blurb is updated: Single, Match and Tag are all real and playable; Relay is still a placeholder. Probabilities: a new 'Starter + Extender' scenario, since the Extender tag didn't affect any number before. The crash and hang logs now rotate/prune instead of growing forever.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.22/Orrery-v0.6.22-win64.zip",
+  "sha256": "2e950f588390603d4f640b5b691e22eb24f4764dfd0e8f1d888d6c877e76dfd5",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.5/Orrery-audio-pack.zip",
   "audio_pack_sha256": "e1f6261fc856ea02d11528d5c7a86164ba638e015a64bb997d4ca5bcdd6d6c64",
   "audio_pack_version": "5",

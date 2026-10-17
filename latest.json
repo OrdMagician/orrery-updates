@@ -1,8 +1,8 @@
 {
-  "version": "0.8.1",
-  "notes": "Small follow-up to 0.8.0: the sidebar's icons (Home, My Decks, Collection, Banlist, Shop, Draft, Replay) now turn spooky - a haunted house, bat, coffin, skull, pumpkin, spider, and ghost - while a Halloween theme is equipped.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.8.1/Orrery-v0.8.1-win64.zip",
-  "sha256": "ee2f194ebd5c40034ffdbbeda98049125cc388f13912be941cf3abcd866d1c9e",
+  "version": "0.8.2",
+  "notes": "Bug fixes: your custom Attribute/Monster Type/Card Type icons now actually show up for everyone (a packaging bug meant only this dev build ever saw them). Preview-only joke cards (S.H.A.M.E., Majesty's Fiend, Vanity's Fiend) are now blocked from real duels unless the Lobby's banlist is set to Unlimited. Deck Lab's Improve This Deck page now respects your own card tags instead of ignoring them. Fixed a couple of mistagged Mystical Sprite spells. Plus more Halloween pack additions.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.8.2/Orrery-v0.8.2-win64.zip",
+  "sha256": "d516d675d675e0dacd233ee34a2b18132e22d84c8bf1a7b501a260ed02568b35",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.8.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "73d9a1618bfa08ca983c4bc4c432db83bf26706567034c20fb5178ff46fe0d05",
   "audio_pack_version": "6",

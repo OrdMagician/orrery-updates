@@ -1,11 +1,11 @@
 {
-  "version": "0.7.0",
-  "notes": "",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.7.0/Orrery-v0.7.0-win64.zip",
-  "sha256": "54240ebdfe22ff5efd62d4b97dcb739f6dee055a9041b9ee0eaf4c8e28265bc3",
-  "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.5/Orrery-audio-pack.zip",
-  "audio_pack_sha256": "e1f6261fc856ea02d11528d5c7a86164ba638e015a64bb997d4ca5bcdd6d6c64",
-  "audio_pack_version": "5",
+  "version": "0.8.0",
+  "notes": "Halloween Haunt 2026 is live through Nov 2! 3 premium shop themes (pick 1 free): The Golden Lord, Vampire Fraulein, Pumpking the Great Ghost King - plus a new permanent Hallo-Ween! theme.\nTrick-or-Treat replaces the daily free pack during the event.\nNew jumpscare system (Settings > Audio has a toggle).\nNew limited-time sleeve/avatars in the Shop.\nHalloween music, SFX, and the Halloween Haunt 2026 card pack.\nNew \"Improve This Deck\" page in Deck Lab.\nPick any card's own art as your Home/Dashboard background.\nAssorted Card Rating and UI fixes.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.8.0/Orrery-v0.8.0-win64.zip",
+  "sha256": "ae9cf0aa4c2d6400ec6dd6e6ec70686628923aa39352e2075d77ef66b505173e",
+  "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.8.0/Orrery-audio-pack.zip",
+  "audio_pack_sha256": "73d9a1618bfa08ca983c4bc4c432db83bf26706567034c20fb5178ff46fe0d05",
+  "audio_pack_version": "6",
   "art_packs": [
     {
       "version": "1",

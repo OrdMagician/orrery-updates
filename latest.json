@@ -1,8 +1,8 @@
 {
-  "version": "0.8.4",
-  "notes": "Home/Dashboard now show a \"last call\" warning in a seasonal event's final 3 days. Fixed a batch of mistagged Spell/Trap cards (several were showing no type at all), Wrath of the Storm Dragons was wrongly a Trap instead of a Skill, Majesty's/Vanity's Ruler join the Fiend versions as duel-blocked preview cards, Faithful Peak Ritual Monsters can now actually be Ritual Summoned by their own deck's spell, Li Ying of the Mo Kai's draw effect needs the full 3 cards like intended, and added Trigonometric Equation Cannon.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.8.4/Orrery-v0.8.4-win64.zip",
-  "sha256": "5fa72ef6faaff6162f42c968c50b43c41c4f1c9ece4e318ab764dd8b6dd12628",
+  "version": "0.9.0",
+  "notes": "New: player-to-player Trading! Host or join a trade from Home, build an offer, browse each other's collections, send a full trade request to Accept/Reject, and chat - all without needing voice. Also added a Trigonometric Equation Cannon calculator to the duel field, and a batch of card data fixes (Faithful Peak Ritual Monsters, Li Ying of the Mo Kai, mistagged Spells/Traps, Wrath of the Storm Dragons, Majesty's/Vanity's Ruler).",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.9.0/Orrery-v0.9.0-win64.zip",
+  "sha256": "e2d3ac4615112c19553d04c00964980d32d571601f4c87de1ff173fb09599e5b",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.8.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "73d9a1618bfa08ca983c4bc4c432db83bf26706567034c20fb5178ff46fe0d05",
   "audio_pack_version": "6",

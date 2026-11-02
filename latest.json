@@ -1,8 +1,8 @@
 {
-  "version": "0.9.1",
+  "version": "0.9.2",
   "notes": "Bugfixes and connection improvements.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.9.1/Orrery-v0.9.1-win64.zip",
-  "sha256": "f556d992ae7e3343db97865735a622036888ca1b0aa4b1de805a5e804474f62c",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.9.2/Orrery-v0.9.2-win64.zip",
+  "sha256": "335c1e2accd98025aa57e039007345719dc20ec42a8394fd5dcb36d1e71858b9",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.8.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "73d9a1618bfa08ca983c4bc4c432db83bf26706567034c20fb5178ff46fe0d05",
   "audio_pack_version": "6",

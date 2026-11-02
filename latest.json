@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0",
-  "notes": "New: player-to-player Trading! Host or join a trade from Home, build an offer, browse each other's collections, send a full trade request to Accept/Reject, and chat - all without needing voice. Also added a Trigonometric Equation Cannon calculator to the duel field, and a batch of card data fixes (Faithful Peak Ritual Monsters, Li Ying of the Mo Kai, mistagged Spells/Traps, Wrath of the Storm Dragons, Majesty's/Vanity's Ruler).",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.9.0/Orrery-v0.9.0-win64.zip",
-  "sha256": "e2d3ac4615112c19553d04c00964980d32d571601f4c87de1ff173fb09599e5b",
+  "version": "0.9.1",
+  "notes": "Bugfixes and connection improvements.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.9.1/Orrery-v0.9.1-win64.zip",
+  "sha256": "f556d992ae7e3343db97865735a622036888ca1b0aa4b1de805a5e804474f62c",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.8.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "73d9a1618bfa08ca983c4bc4c432db83bf26706567034c20fb5178ff46fe0d05",
   "audio_pack_version": "6",

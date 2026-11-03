@@ -1,8 +1,8 @@
 {
-  "version": "0.9.2",
+  "version": "0.9.3",
   "notes": "Bugfixes and connection improvements.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.9.2/Orrery-v0.9.2-win64.zip",
-  "sha256": "335c1e2accd98025aa57e039007345719dc20ec42a8394fd5dcb36d1e71858b9",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.9.3/Orrery-v0.9.3-win64.zip",
+  "sha256": "27a8bcbb80a073f86184860297eacf532fa09a176cbcdaa1661a9e58d5aba37f",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.8.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "73d9a1618bfa08ca983c4bc4c432db83bf26706567034c20fb5178ff46fe0d05",
   "audio_pack_version": "6",
@@ -36,6 +36,11 @@
       "version": "6",
       "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.6.7/Orrery-art-pack-v6.zip",
       "sha256": "323dbdc4c63d931d197d29b27bffa7d82450e13f615ec2d8f0640d443f43b6ab"
+    },
+    {
+      "version": "7",
+      "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.9.3/Orrery-art-pack-v7.zip",
+      "sha256": "bc00da7ec372646ad176fa8edf81f407ae9a473b01416ad41b66564344c61beb"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "version": "0.9.3",
-  "notes": "Bugfixes and connection improvements.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.9.3/Orrery-v0.9.3-win64.zip",
-  "sha256": "27a8bcbb80a073f86184860297eacf532fa09a176cbcdaa1661a9e58d5aba37f",
+  "version": "0.10.0",
+  "notes": "Big update!\nNew: Intent Search - turn on Intent next to a search box and describe cards in plain words (searcher -light, revive fire monster, tutor phara).\nNew: card pages show Related Cards in tabs, including cards that search this one; Recommend Cards has a Links tab.\nNew: drawn icons everywhere that match your theme, real Level/Rank stars, and rarity icons on big pulls.\nNew: animations - menus, screens, sliding highlights, card hover, LP counting, cards flying into your hand, and pack openings that tear open and sparkle. Turn off in Settings > Visual > Animations.\nNew: collapsible sidebar (button at its top, or Ctrl+B) and styled duel chat.\nFixes: no jumpscares outside Halloween themes, no crash when a firewall blocks a connection, easier drag-to-hand, one pile window at a time, cut-off buttons, daily pack notice now shows on the Shop.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.10.0/Orrery-v0.10.0-win64.zip",
+  "sha256": "abeb8dcfc6b3d531a05c06066abe3d289bd7b5132ede0418645a55d7e933dd2d",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.8.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "73d9a1618bfa08ca983c4bc4c432db83bf26706567034c20fb5178ff46fe0d05",
   "audio_pack_version": "6",

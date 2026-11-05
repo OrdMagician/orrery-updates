@@ -46,6 +46,11 @@
       "version": "8",
       "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.0/Orrery-art-pack-v8.zip",
       "sha256": "e01b6444a89a789737476bd28e34d482c963ba56cd295462614f00f2bcff94db"
+    },
+    {
+      "version": "9",
+      "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.0/Orrery-art-pack-v9.zip",
+      "sha256": "394d260630439eafd2ca0338d3e78d9e0b93da46f074faeb7b6e63b2a084377e"
     }
   ]
 }

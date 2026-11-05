@@ -1,8 +1,8 @@
 {
-  "version": "0.12.1",
-  "notes": "The showtime update!\nNew: Constellation Rares come with their own sleeve and profile picture, made from the card's art with the Constellation foil and a rarity sheen. They unlock with a reveal when you get the card.\nNew: a VS intro before online duels, with both players' profile pictures facing off.\nNew: titles you earn (Set Master, Constellation Collector, Unstoppable and more). Wear one from Statistics; it shows on Home.\nNew: your profile picture on Home and Statistics, and foiled sleeves and avatars shine.\nNew: big moments get a reveal: using a Rarity Shifter, mastering a set, a shifter from a milestone.\nNew: shifted copies can be traded, previewed before you shift and shown in the Deck Builder.\nSmoother: the card info on hover glides between cards, archetype tiles cascade in, and hovering a sleeve in the shop shows it as a hand of cards.\nArt: three missing card images (Aussa the Terrene Charmer, The fiend Mega cyber, Archer of the Worlds End) - grab them with Update Art.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.1/Orrery-v0.12.1-win64.zip",
-  "sha256": "ba842f2618016a69934653bd97fcdebad83fe7110c2de83da71e42bd0c52a5a2",
+  "version": "0.12.2",
+  "notes": "The show-off update!\nNew: Tournaments in the sidebar: run a bracket for your group, with byes, duels that record themselves on the organiser's app and a picture to share. Win one for the Tournament Champion title.\nNew: the Deck Gallery in My Decks: browse shared decks and import a copy.\nNew: a showcase of five favourite cards on Statistics and Home, and a Share Profile Card button.\nNew: sets climb past Mastered to Radiant and Legendary.\nNew: a card's page tells its story: its record in your decks, plus shifts and trades.\nNew: the victory screen shows both players and the final blow, and summons take on the monster's Attribute color.\nNew: Most-Used Cards on Statistics, as art tiles.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.2/Orrery-v0.12.2-win64.zip",
+  "sha256": "d45b4cfe44de7d9a774a63a8989868b0905557c54255d558304158f6ec0b44e7",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.1/Orrery-audio-pack.zip",
   "audio_pack_sha256": "751156a1290f7ea0559da43be0f3bc9c816e584998b088bb478544a6015acfc7",
   "audio_pack_version": "8",

@@ -3,9 +3,9 @@
   "notes": "The showtime update!\nNew: Constellation Rares come with their own sleeve and profile picture, made from the card's art with the Constellation foil and a rarity sheen. They unlock with a reveal when you get the card.\nNew: a VS intro before online duels, with both players' profile pictures facing off.\nNew: titles you earn (Set Master, Constellation Collector, Unstoppable and more). Wear one from Statistics; it shows on Home.\nNew: your profile picture on Home and Statistics, and foiled sleeves and avatars shine.\nNew: big moments get a reveal: using a Rarity Shifter, mastering a set, a shifter from a milestone.\nNew: shifted copies can be traded, previewed before you shift and shown in the Deck Builder.\nSmoother: the card info on hover glides between cards, archetype tiles cascade in, and hovering a sleeve in the shop shows it as a hand of cards.\nArt: three missing card images (Aussa the Terrene Charmer, The fiend Mega cyber, Archer of the Worlds End) - grab them with Update Art.",
   "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.1/Orrery-v0.12.1-win64.zip",
   "sha256": "ba842f2618016a69934653bd97fcdebad83fe7110c2de83da71e42bd0c52a5a2",
-  "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.0/Orrery-audio-pack.zip",
-  "audio_pack_sha256": "169e526380af9eb7fd34fea6659e119fdda18de8fe1011d221e0a604a902453e",
-  "audio_pack_version": "7",
+  "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.1/Orrery-audio-pack.zip",
+  "audio_pack_sha256": "751156a1290f7ea0559da43be0f3bc9c816e584998b088bb478544a6015acfc7",
+  "audio_pack_version": "8",
   "art_packs": [
     {
       "version": "1",

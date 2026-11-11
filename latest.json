@@ -1,8 +1,8 @@
 {
-  "version": "0.12.2",
-  "notes": "The show-off update!\nNew: Tournaments in the sidebar: run a bracket for your group, with byes, duels that record themselves on the organiser's app and a picture to share. Win one for the Tournament Champion title.\nNew: the Deck Gallery in My Decks: browse shared decks and import a copy.\nNew: a showcase of five favourite cards on Statistics and Home, and a Share Profile Card button.\nNew: sets climb past Mastered to Radiant and Legendary.\nNew: a card's page tells its story: its record in your decks, plus shifts and trades.\nNew: the victory screen shows both players and the final blow, and summons take on the monster's Attribute color.\nNew: Most-Used Cards on Statistics, as art tiles.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.2/Orrery-v0.12.2-win64.zip",
-  "sha256": "d45b4cfe44de7d9a774a63a8989868b0905557c54255d558304158f6ec0b44e7",
+  "version": "0.12.3",
+  "notes": "The table-side update!\nNew: the Blank Exchange in the Shop: trade a Blank Card for a special version of a card, with its own sleeve and profile picture.\nNew: the Trophy Room, Rivals and a Card of the Day on Home to flip over each morning.\nNew: in a duel, check your Deck List, see what's left in your Deck, or ask your opponent to show theirs.\nNew: a Turn Log of every card played each turn, in duels and beside the board in replays.\nNew: Deck Doctor learns from your duels which cards you never play or keep getting stuck with.\nNew: your sleeves show on your Deck, Extra Deck and face-down banished cards, and a warning plays when a Deck gets low.\nNew: a Card of the Duel on the victory screen, plus new shuffle, draw and flip effects.\nFixed: profile pictures and odd-shaped sleeves no longer stretch or squash.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.3/Orrery-v0.12.3-win64.zip",
+  "sha256": "7a9cf9afdd40fb43dc91d38d38382764e5bd61a5cbd7f3f7a538d85780d7999f",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.1/Orrery-audio-pack.zip",
   "audio_pack_sha256": "751156a1290f7ea0559da43be0f3bc9c816e584998b088bb478544a6015acfc7",
   "audio_pack_version": "8",
@@ -51,6 +51,11 @@
       "version": "9",
       "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.0/Orrery-art-pack-v9.zip",
       "sha256": "394d260630439eafd2ca0338d3e78d9e0b93da46f074faeb7b6e63b2a084377e"
+    },
+    {
+      "version": "10",
+      "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.3/Orrery-art-pack-v10.zip",
+      "sha256": "1d7afc3bf08f12b30182cc47a1871845f5fc037720cdff8ab3b2d9e66f311ea5"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "version": "0.15.5",
-  "notes": "Orrery 0.15.5\n\nDueling\n- Negate: right-click a card on the field and pick Negate to grey it out and cross it out. It shows on both screens; Undo Negate clears it, and it clears by itself when the card leaves the field or is set face-down.\n- Four new drawn effects: a Fusion vortex (Polymerization, Dark Polymerization), Curse chains (Dragon's Anathema), Freeze and Quake.\n- Drawn effects now play for every print of a card, and for cards whose names have quotes, commas or a \"?\" in them (Spear the Gungnir, Lluvia, Xipe Totec, Erra's Light Lightning).\n\nEffects Gallery\n- The new effects are in, each tab shows its effects a page at a time, and playing one tells you which cards use it.\n\nFaster\n- The first start after an update opens straight away instead of pausing to sort every card's keywords.\n- Card art is found even when a file name's capitals don't match (Dark Magician Girl the Dragon Knight's alt art, and its Constellation Rare sleeve and avatar).",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.15.5/Orrery-v0.15.5-win64.zip",
-  "sha256": "8b84d63c84a44f7a476a564d0e502c720d824544c49da59e78c3443831aedac6",
+  "version": "0.16.0",
+  "notes": "Orrery 0.16.0\n\nDueling\n- ATK and DEF changes from card text are worked out for you: Field Spells and other cards that boost an archetype, Type or Attribute; \"gains ATK for each\" cards in the GY or banishment; Equip Spells; and Traps or Spells that become monsters. A badge shows the change and its tooltip lists where it came from. Pendulum Effects count while the card sits in a Pendulum Zone. Turn it off from the Deck menu or by right-clicking the badge.\n- Duel calculator: a sum box beside the field whose answer can be taken from or added to your LP.\n- Move Several: send several cards from the GY, banishment or hand to one place at once.\n- Check Field hides the duel results so you can look over the final board, with a button to bring them back.\n- A chain whose wait runs out now resolves on both players' fields.\n- A monster's own voice line and drawn effect play on its summon, not every time its effect is used.\n- High Dragon, Omega Psychic, Celestial Warrior and Magical Knight count as their broader Types for Type locks.\n- Open lobbies reach friends on Tailscale.\n\nPacks and collecting\n- Alt arts can now come out of packs, each at its own rarity.\n- Card text reads like a printed card, with Compare and owned counts.\n- Collection reads each pack from its own card list and finds custom pack covers.\n- New card art; open Settings and pick Download / Update Art to get it.\n\nGetting around\n- Back and forward, Ctrl+F, saved searches, copying cards, undoable deck deletes, and the window remembers its size and place.\n- My Decks shows each deck as one tile; the Shop and Deck Builder were redrawn.\n- Dropdown lists fade in right under the mouse.\n- Secret cards stay hidden on every screen.\n\nFaster\n- The Pack Builder and Database scroll smoothly and load art without stalling the window.\n",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.16.0/Orrery-v0.16.0-win64.zip",
+  "sha256": "921b250b11739ea6b3d43af2cb0fc9893cfa9470f1125e04fe476dbad7f372bd",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.1/Orrery-audio-pack.zip",
   "audio_pack_sha256": "751156a1290f7ea0559da43be0f3bc9c816e584998b088bb478544a6015acfc7",
   "audio_pack_version": "8",
@@ -56,6 +56,11 @@
       "version": "10",
       "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.3/Orrery-art-pack-v10.zip",
       "sha256": "1d7afc3bf08f12b30182cc47a1871845f5fc037720cdff8ab3b2d9e66f311ea5"
+    },
+    {
+      "version": "11",
+      "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.16.0/Orrery-art-pack-v11.zip",
+      "sha256": "140af6f5ab97b651aa49256567330a3e78352029e2f1073216e79f74b755fba9"
     }
   ]
 }

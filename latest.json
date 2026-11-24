@@ -1,11 +1,11 @@
 {
-  "version": "0.16.0",
-  "notes": "Orrery 0.16.0\n\nDueling\n- ATK and DEF changes from card text are worked out for you: Field Spells and other cards that boost an archetype, Type or Attribute; \"gains ATK for each\" cards in the GY or banishment; Equip Spells; and Traps or Spells that become monsters. A badge shows the change and its tooltip lists where it came from. Pendulum Effects count while the card sits in a Pendulum Zone. Turn it off from the Deck menu or by right-clicking the badge.\n- Duel calculator: a sum box beside the field whose answer can be taken from or added to your LP.\n- Move Several: send several cards from the GY, banishment or hand to one place at once.\n- Check Field hides the duel results so you can look over the final board, with a button to bring them back.\n- A chain whose wait runs out now resolves on both players' fields.\n- A monster's own voice line and drawn effect play on its summon, not every time its effect is used.\n- High Dragon, Omega Psychic, Celestial Warrior and Magical Knight count as their broader Types for Type locks.\n- Open lobbies reach friends on Tailscale.\n\nPacks and collecting\n- Alt arts can now come out of packs, each at its own rarity.\n- Card text reads like a printed card, with Compare and owned counts.\n- Collection reads each pack from its own card list and finds custom pack covers.\n- New card art; open Settings and pick Download / Update Art to get it.\n\nGetting around\n- Back and forward, Ctrl+F, saved searches, copying cards, undoable deck deletes, and the window remembers its size and place.\n- My Decks shows each deck as one tile; the Shop and Deck Builder were redrawn.\n- Dropdown lists fade in right under the mouse.\n- Secret cards stay hidden on every screen.\n\nFaster\n- The Pack Builder and Database scroll smoothly and load art without stalling the window.\n",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.16.0/Orrery-v0.16.0-win64.zip",
-  "sha256": "921b250b11739ea6b3d43af2cb0fc9893cfa9470f1125e04fe476dbad7f372bd",
-  "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.12.1/Orrery-audio-pack.zip",
-  "audio_pack_sha256": "751156a1290f7ea0559da43be0f3bc9c816e584998b088bb478544a6015acfc7",
-  "audio_pack_version": "8",
+  "version": "0.17.0",
+  "notes": "Orrery 0.17.0\n\nCards\n- Silent, Byte, Creative Canvas, Fog and Mist, and World's End were rebuilt: new text, new cards, and fixes to cards that could lock a duel. The old versions stay in the Database as Pre-Errata cards.\n- New Byte cards, including Hilobyte Supreme Heroine, Dracabyte Savage Guardian, Dracabyte Volcantyranno and Dracabyte Unrivaled Ruler Gluttony Nebiros.\n- New card art, popups and card sounds. Open Settings and pick Download / Update Art and Download / Update Audio to get them.\n- A few cards show an amber eye: their balance is being watched and they may change in a later update. Search \"watched\" to see them all.\n\nDueling\n- Effects now prompt when a card goes from the GY back to the Deck, or when a Spell or Trap is negated.\n- \"Sent to the GY by a card effect\" and \"except its own\" triggers can tell battle, effects and costs apart.\n- Excavating from the top or bottom of the Deck, putting cards back in the order you pick, and Fusion Summons that use monsters from the GY.\n- \"The first time it would be destroyed each turn, it is not\" now saves the card for you.\n- More ATK changes are worked out for you (counters, Attributes in the GY), cards that give an extra Normal Summon count it, and monsters that can attack more than once get the right number of attacks.\n- Warnings when a card can't be targeted, when a card stops you Tributing, and for \"You can only control 1\" cards.\n- React: send your opponent a reaction from the Tools box. Ping: right-click any card, yours or theirs, to point it out. Both work on either turn.\n",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.0/Orrery-v0.17.0-win64.zip",
+  "sha256": "0bc957871a5c4375db821df1d340c49c750fd12085b42050db2dcdcd922c627e",
+  "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.0/Orrery-audio-pack.zip",
+  "audio_pack_sha256": "4f380401caa52c296920f1ca84868ae171b690c452cb6a6bf774a1ad8b15e8ad",
+  "audio_pack_version": "9",
   "art_packs": [
     {
       "version": "1",
@@ -61,6 +61,11 @@
       "version": "11",
       "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.16.0/Orrery-art-pack-v11.zip",
       "sha256": "140af6f5ab97b651aa49256567330a3e78352029e2f1073216e79f74b755fba9"
+    },
+    {
+      "version": "12",
+      "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.0/Orrery-art-pack-v12.zip",
+      "sha256": "d7255dce1b9e47058ff18739a5785e31a02a5b8b56663548516dce2e0b321d7c"
     }
   ]
 }

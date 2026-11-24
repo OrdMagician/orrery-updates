@@ -1,8 +1,8 @@
 {
-  "version": "0.17.1",
-  "notes": "Orrery 0.17.1\n\n- Mist Heiress now has its summon popup.\n\nEverything from 0.17.0 is still here. If you skipped it: Silent, Byte, Creative Canvas, Fog and Mist, and World's End were rebuilt with new cards and art (pick Download / Update Art and Download / Update Audio in Settings), and dueling picked up a lot more automation, React and Ping.\n",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.1/Orrery-v0.17.1-win64.zip",
-  "sha256": "158c5f360e27f24cede07cd339295c92f28e4cb80c3608210d104aac21ded805",
+  "version": "0.17.2",
+  "notes": "Tribute Summons, Enfuse Counter and material costs, piercing damage, hand limit and upkeep automation in duels. End Phase effects now work from the GY (Witchcrafter Spells). Fixed repeating once-per-turn triggers and wrong search results. New Moving and Lighter duel background settings, a Skill point cap warning, and a progress window while updates install.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.2/Orrery-v0.17.2-win64.zip",
+  "sha256": "84321bfff6f3f96d9f0059105dfdea550667e468f997e492379f1d852f63fd33",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "4f380401caa52c296920f1ca84868ae171b690c452cb6a6bf774a1ad8b15e8ad",
   "audio_pack_version": "9",

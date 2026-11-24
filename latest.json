@@ -1,8 +1,8 @@
 {
-  "version": "0.17.2",
-  "notes": "Tribute Summons, Enfuse Counter and material costs, piercing damage, hand limit and upkeep automation in duels. End Phase effects now work from the GY (Witchcrafter Spells). Fixed repeating once-per-turn triggers and wrong search results. New Moving and Lighter duel background settings, a Skill point cap warning, and a progress window while updates install.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.2/Orrery-v0.17.2-win64.zip",
-  "sha256": "84321bfff6f3f96d9f0059105dfdea550667e468f997e492379f1d852f63fd33",
+  "version": "0.17.3",
+  "notes": "Pre-Errata cards leave the Card Shop's daily stock and are Sandbox-only; their current versions are off the banlist. New Old Guard and Before the Errata achievements, a Lock button on the Home showcase, Future Silence counts as Silent, and shop tags no longer get cut off.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.3/Orrery-v0.17.3-win64.zip",
+  "sha256": "693768ac87c5f3abd006fc7973fe92f02e8cac8803b0bf5f3d8c5f4985249a88",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "4f380401caa52c296920f1ca84868ae171b690c452cb6a6bf774a1ad8b15e8ad",
   "audio_pack_version": "9",

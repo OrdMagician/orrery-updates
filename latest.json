@@ -1,8 +1,8 @@
 {
-  "version": "0.17.3",
-  "notes": "Pre-Errata cards leave the Card Shop's daily stock and are Sandbox-only; their current versions are off the banlist. New Old Guard and Before the Errata achievements, a Lock button on the Home showcase, Future Silence counts as Silent, and shop tags no longer get cut off.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.3/Orrery-v0.17.3-win64.zip",
-  "sha256": "693768ac87c5f3abd006fc7973fe92f02e8cac8803b0bf5f3d8c5f4985249a88",
+  "version": "0.17.4",
+  "notes": "Battle Ballad is rebuilt around how many cards are in your banishment, with four new cards and a Plectcrime alt art in the Gamble Bunny Pack; the old versions are Pre-Errata cards. Turn Silence and Holy Silence Decree count as Silent, and DreamWielder has new art.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.4/Orrery-v0.17.4-win64.zip",
+  "sha256": "1d35c72db57d71a14babd5be0a20a114970a0c052eb9d3c28849b378668f1eee",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "4f380401caa52c296920f1ca84868ae171b690c452cb6a6bf774a1ad8b15e8ad",
   "audio_pack_version": "9",
@@ -66,6 +66,11 @@
       "version": "12",
       "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.0/Orrery-art-pack-v12.zip",
       "sha256": "d7255dce1b9e47058ff18739a5785e31a02a5b8b56663548516dce2e0b321d7c"
+    },
+    {
+      "version": "13",
+      "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.4/Orrery-art-pack-v13.zip",
+      "sha256": "c7ceacb338ce373feaefc696556fbb587f3d52f0069d0a12de0e1a1afcece70f"
     }
   ]
 }

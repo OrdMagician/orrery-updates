@@ -1,8 +1,8 @@
 {
-  "version": "0.17.4",
-  "notes": "Battle Ballad is rebuilt around how many cards are in your banishment, with four new cards and a Plectcrime alt art in the Gamble Bunny Pack; the old versions are Pre-Errata cards. Turn Silence and Holy Silence Decree count as Silent, and DreamWielder has new art.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.4/Orrery-v0.17.4-win64.zip",
-  "sha256": "1d35c72db57d71a14babd5be0a20a114970a0c052eb9d3c28849b378668f1eee",
+  "version": "0.18.0",
+  "notes": "Harpies, Thunder Nyan Nyan, Blaze Fiends, Celeb Rose and Plasmatic Model are reworked, with six new cards; card text has a wording pass; level-ups can give boosts; and duels get new animations, a new chain panel and battle backgrounds for every deluxe theme.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.18.0/Orrery-v0.18.0-win64.zip",
+  "sha256": "7ec328b0b54df4f487e2dd25181611aaf79e068309cf041d09240a26d4a9f8cb",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "4f380401caa52c296920f1ca84868ae171b690c452cb6a6bf774a1ad8b15e8ad",
   "audio_pack_version": "9",
@@ -71,6 +71,11 @@
       "version": "13",
       "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.4/Orrery-art-pack-v13.zip",
       "sha256": "c7ceacb338ce373feaefc696556fbb587f3d52f0069d0a12de0e1a1afcece70f"
+    },
+    {
+      "version": "14",
+      "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.18.0/Orrery-art-pack-v14.zip",
+      "sha256": "1f899875db321fe88d93d4868a4f3ab31fa226ed141c26696a38558e5ef6b0d9"
     }
   ]
 }

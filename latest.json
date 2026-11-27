@@ -1,8 +1,8 @@
 {
-  "version": "0.19.1",
-  "notes": "- Wear a title or an achievement from My Profile: pick it in the Wearing list under your name.\n- Achievements you earned before they were counted now count too: Gamble Bunny Roller (from your past Gamble Bunny rolls), I Think I'll Try It a Second Time, NO ONE WILL EVER KNOW and I Cheat at Card Games.\n- Special cards from the Blank Exchange, like Vi and Leonore, now show up in the Deck Builder search once you own them.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.19.1/Orrery-v0.19.1-win64.zip",
-  "sha256": "6520be9e04b95f2b13bb34180e9634c3d7892ce9d893a9568fc5a2508b5b429c",
+  "version": "0.19.2",
+  "notes": "- The attack bar no longer covers the opponent's hand, so you can click it to attack directly.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.19.2/Orrery-v0.19.2-win64.zip",
+  "sha256": "65af8f8b6b05f6886f4fa8e3b54a3c240998df47c48265e612dad0d8bb366f19",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.19.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "84229dcb59c81d9d041204db4cc5827d0fc406fc2f3e47afe1077ac8adbcddfc",
   "audio_pack_version": "10",

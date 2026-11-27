@@ -1,8 +1,8 @@
 {
-  "version": "0.19.2",
-  "notes": "- The attack bar no longer covers the opponent's hand, so you can click it to attack directly.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.19.2/Orrery-v0.19.2-win64.zip",
-  "sha256": "65af8f8b6b05f6886f4fa8e3b54a3c240998df47c48265e612dad0d8bb366f19",
+  "version": "0.19.3",
+  "notes": "- Duality now Tributes 1 monster, not 7, and its text is cleaned up.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.19.3/Orrery-v0.19.3-win64.zip",
+  "sha256": "49a0300d8197abe2592133aed6955c12b32b9f1875f209047266f25d751bf9b0",
   "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.19.0/Orrery-audio-pack.zip",
   "audio_pack_sha256": "84229dcb59c81d9d041204db4cc5827d0fc406fc2f3e47afe1077ac8adbcddfc",
   "audio_pack_version": "10",

@@ -1,11 +1,11 @@
 {
-  "version": "0.18.0",
-  "notes": "Harpies, Thunder Nyan Nyan, Blaze Fiends, Celeb Rose and Plasmatic Model are reworked, with six new cards; card text has a wording pass; level-ups can give boosts; and duels get new animations, a new chain panel and battle backgrounds for every deluxe theme.",
-  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.18.0/Orrery-v0.18.0-win64.zip",
-  "sha256": "7ec328b0b54df4f487e2dd25181611aaf79e068309cf041d09240a26d4a9f8cb",
-  "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.17.0/Orrery-audio-pack.zip",
-  "audio_pack_sha256": "4f380401caa52c296920f1ca84868ae171b690c452cb6a6bf774a1ad8b15e8ad",
-  "audio_pack_version": "9",
+  "version": "0.19.0",
+  "notes": "**Blank Exchange**\n- Two new special cards to trade a Blank Card for: Leonore, the Lore Lorelei (Lore Leimey's special) and Vi, The Dragon Slaying Witch (Destroyer of Dragon Sorcerers'). Both are Constellation Rares, and each comes with its own sleeve, profile picture and Skill: Tidal Memory and Dragon Slayer Magic. A special's Skill can only go in a deck once you own the special, and costs 5 skill points.\n- Getting a Blank Card from a pack's milestone now uses up that pack's Blank Card, the same as pulling one.\n\n**Cards**\n- High-Tech Dragons are reworked, with new cards and remade prints in HELLO_WORLD: Master Up-Drake is now a Level 6 combo starter, and Alpha Burn Wyvern, Alpha Burn Rebuildra, Lightwave Dragon and H.D.D. have new effects.\n- Anomaly Arcana and Animagica are stronger, and their broken text is fixed.\n- New Dragon's Mirror voice line, plus new voice lines and popups for other cards.\n\n**Duels**\n- Missed an attack? Press Escape or Cancel to call it off. Replay works too: if the attack target leaves the field or a new monster appears during the Battle Step, you can choose a new target or stop attacking.\n- When you Special Summon a monster, you choose its battle position.\n- Illusory and True Illusory are handled for you in battle.\n- \"?\" ATK monsters like the World's End and Gandora cards now show their real ATK on the field.\n- Effects can pay costs from the Deck, Extra Deck and banishment, not just the hand and field.\n- Searching for what a card adds ignores costs and Summon locks, so Silent Majesty LV? only finds Silent Spells.\n- Counter Traps can only be answered by another Counter Trap, now including cards played straight from your hand.\n- Negating a card's effects while a chain resolves also negates that card's effect waiting further down the chain.\n- Witchcrafter Spells that add several cards to your hand add them all at once.\n- Skills play their own voice line when they have one.\n- Sacrificio monsters count as Spells for Enfuse Summons and Enfuse Counters, equal to their Level.\n- The name of the title you're wearing shows beside your name in the duel room.\n\n**Achievements**\n- Seven new achievements, including a few secret ones. Training Room Merchant and Training Room Demon are for time spent in solo duels.\n- You can wear an achievement as a title.\n\n**Cosmetics**\n- New Dice Key Die and Dice Key Coin: heart pips with a broken heart for a 1, and a heart for heads and a broken one for tails.\n\n**Fixes**\n- No more pack completion pop-ups for packs that aren't out yet.\n- The Collection Manager no longer calls an archetype complete when you're missing cards from it.\n- For My Decks counts cards it doesn't know as missing.\n- Zooming in on a card and closing it no longer leaves the screen dark.\n\nUse Settings → Download / Update Art for the new card art, and Download / Update Audio for the new voice lines.",
+  "download_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.19.0/Orrery-v0.19.0-win64.zip",
+  "sha256": "b1fe2daba01a1daed92ceeb41b94f2d29f7faefc2448da18d4da664b5bb21a7e",
+  "audio_pack_url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.19.0/Orrery-audio-pack.zip",
+  "audio_pack_sha256": "84229dcb59c81d9d041204db4cc5827d0fc406fc2f3e47afe1077ac8adbcddfc",
+  "audio_pack_version": "10",
   "art_packs": [
     {
       "version": "1",
@@ -76,6 +76,16 @@
       "version": "14",
       "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.18.0/Orrery-art-pack-v14.zip",
       "sha256": "1f899875db321fe88d93d4868a4f3ab31fa226ed141c26696a38558e5ef6b0d9"
+    },
+    {
+      "version": "15",
+      "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.19.0/Orrery-art-pack-v15.zip",
+      "sha256": "5279f4a9ff74dad143c3fae87294ec12456ae0bacabbc8189cde8e17032fead2"
+    },
+    {
+      "version": "16",
+      "url": "https://github.com/OrdMagician/orrery-updates/releases/download/Orrery_0.19.0/Orrery-art-pack-v16.zip",
+      "sha256": "97443fc836766878b9fa807bdd5454eab181cb7c46acba6b2a08aa55bb56f4d3"
     }
   ]
 }
